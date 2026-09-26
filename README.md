@@ -18,6 +18,7 @@ Program Python sederhana yang dirancang untuk mensimulasikan perhitungan tarif p
 ## Cara Menjalankan Program
 1. Pastikan Python sudah terinstal di komputer Anda.
 2. Unduh atau *clone* repositori ini.
-3. Buka terminal atau *command prompt*, lalu jalankan perintah berikut:
+3. Run Code via Run Code Button (Play Button)
+4. Atau Buka terminal *command prompt*, lalu jalankan perintah berikut:
    ```bash
    python parkir.py
